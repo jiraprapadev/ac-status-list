@@ -1,0 +1,7 @@
+name: ac_status_list
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.5
+environment:
+  sdk: ^3.7.2
